@@ -52,3 +52,8 @@
 - Bio: MERN Stack Web Developer
 - Github: https://github.com/HarshitRichariya
 ***
+
+### Rachit Khare
+- Location: Bhopal, India
+- Bio: Novice yet interested in Coding, I write too!
+- Github: https://github.com/ShadowFax1731
